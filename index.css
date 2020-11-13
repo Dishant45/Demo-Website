@@ -6,6 +6,8 @@ body{
     font-family: 'Montserrat', sans-serif;
     
 }
+html{scroll-behavior: smooth;
+}
 .navigation-bar{
     display:flex;
     flex-direction: row;
@@ -320,7 +322,7 @@ hr{
     flex-direction:column;
     flex-wrap:wrap;
     height:190vh;
-    width:100vw;
+    width:60vw;
 }
 .f1{
     display:flex;
